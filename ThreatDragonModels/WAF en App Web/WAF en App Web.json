@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "WAF en App Web",
+    "owner": "Abril",
+    "description": "Funcionamiento de un WAF ante algunas amenazas hacia una aplicación web"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "WAF en App Web",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": ""
+  }
+}
